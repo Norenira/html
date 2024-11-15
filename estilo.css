@@ -1,0 +1,19 @@
+body {
+    font-family: 'Inter', sans-serif; 
+    font-size: 14px; 
+    background-color: #7bda00; 
+    color: #333333; 
+}
+
+h1 {
+    color: #5988FF; 
+    font-size: 36px; 
+    font-family: 'Inter', serif; 
+    text-decoration-color: #FD98FB;
+}
+
+.formulario {
+    display: flex;
+    flex-direction: column;
+    border: 2px;
+}
